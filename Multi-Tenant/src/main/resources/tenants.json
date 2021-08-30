@@ -1,0 +1,14 @@
+[
+  {
+    "tenant" : "TenantOne",
+    "url": "jdbc:mysql://localhost:3306/sampledb1",
+    "user": "root",
+    "password": "2001"
+  },
+  {
+    "tenant": "TenantTwo",
+    "url": "jdbc:mysql://localhost:3306/sampledb2",
+    "user": "root",
+    "password": "2001"
+  }
+]
